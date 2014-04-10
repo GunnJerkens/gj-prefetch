@@ -21,7 +21,7 @@ This will prefetch/prerender the next older post in the posts queue. If the post
 ### TODO
 
 1) Allow next or previous  
-2) Default output hook after the_content displaying featured image and excerpt
+2) Default output hook after the_content displaying featured image and excerpt  
 3) ???
 
 ### License
