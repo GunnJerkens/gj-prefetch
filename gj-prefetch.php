@@ -23,9 +23,6 @@ class gj_prefetch {
       if(isset($prevArray['ID'])) {
         $prevID = $prevArray['ID'];
       }
-      if(isset($prevArray['post_title'])) {
-        $prevTitle = $prevArray['post_title'];
-      }
 
       if(isset($prevArray['ID'])) {
         $prevID = $prevArray['ID'];
