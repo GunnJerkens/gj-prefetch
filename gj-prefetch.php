@@ -22,10 +22,6 @@ class gj_prefetch {
 
       if(isset($prevArray['ID'])) {
         $prevID = $prevArray['ID'];
-      }
-
-      if(isset($prevArray['ID'])) {
-        $prevID = $prevArray['ID'];
         $prevID = get_permalink($prevID);
         echo '<link rel="prefetch" href="'.$prevID.'">';
         echo '<link rel="prerender" href="'.$prevID.'">';
