@@ -15,7 +15,7 @@ class gj_prefetch {
   }
 
   public function gj_retrieve() {
-    if (is_single()) {
+    if (is_singular('post')) {
 
       $prevPost = get_previous_post();
       $prevArray = (array) $prevPost;
