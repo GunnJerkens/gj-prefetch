@@ -3,7 +3,7 @@
 Plugin Name: GJ Prefetch
 Plugin URI: http://gunnjerkens.com
 Description: Completes a prefetch of the next subsequent post on any pages that satisfy is_single.
-Version: 0.1
+Version: 0.1.0
 Author: Gunn|Jerkens
 Author URI: http://gunnjerkens.com
 */
